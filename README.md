@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=/Programmer-Hacktivist&theme=onedark" alt="professor-madmaxxx">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=Programmer-Hacktivist&theme=onedark" alt="professor-madmaxxx">
 </p>
 
 <h1 align="center">Random Joke</h1>
