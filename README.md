@@ -33,8 +33,8 @@
   <a href="https://docs.microsoft.com/en-us/powershell/">
     <img src="https://img.shields.io/badge/PowerShell-7.1-blueviolet.svg?logo=powershell&logoColor=white" alt="PowerShell 7.1">
   </a>
-  <a href="https://www.lua.org/">
-    <img src="https://img.shields.io/badge/Lua-5.4-blue.svg?logo=lua&logoColor=white" alt="Lua 5.4">
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/Rust-1.57-orange.svg?logo=rust&logoColor=white" alt="Rust 1.57">
   </a>
   <a href="https://www.callofduty.com/">
     <img src="https://img.shields.io/badge/GSC-C.O.D-yellowgreen.svg" alt="GSC C.O.D">
