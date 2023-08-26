@@ -47,11 +47,11 @@
 - 📫 How to reach me **iameverywhere@present.com**
 
 <p align="center">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirCryptic&theme=monokai" alt="Null Security Team">
+    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer-Hacktivist&theme=monokai" alt="professor-madmaxxx">
 </p>
 
 <p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=SirCryptic&theme=onedark" alt="Null Security Team">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=/Programmer-Hacktivist&theme=onedark" alt="professor-madmaxxx">
 </p>
 
 <h1 align="center">Random Joke</h1>
