@@ -43,7 +43,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 - 🤝 I’m looking for help with **Artificial Intelligence**
-- 💬 Ask me about **CYBERSECURITY && MALWARE ANALYST**
+- 💬 Paid Hacks **FindMe**
 - 📫 How to reach me **iameverywhere@present.com**
 
 <p align="center">
