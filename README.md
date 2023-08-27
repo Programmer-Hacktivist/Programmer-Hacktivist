@@ -41,13 +41,11 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **Machine Learning**
-- 🤝 I’m looking for help with **Artificial Intelligence**
-- 💬 Paid Hacks **FindMe**
-- 📫 How to reach me **iameverywhere@present.com**
+-    I can Hack Anything
+-    I can Recover Hacked accounts and hack into systems.
+-    How to reach me iameverywhere@present.com
 
-<p align="center">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer-Hacktivist&theme=monokai" alt="**professor-madmaxxx**">
+
 </p>
 
 <p align="center">
