@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/professor-madmaxxx">
+  <a href="https://github.com/CyberSecurityProfessional-EthicalHacker">
     <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
   </a>
 </p>
@@ -47,11 +47,11 @@
 - 📫 How to reach me **iameverywhere@present.com**
 
 <p align="center">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer-Hacktivist&theme=monokai" alt="professor-madmaxxx">
+    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer-Hacktivist&theme=monokai" alt="**professor-madmaxxx**">
 </p>
 
 <p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=Programmer-Hacktivist&theme=onedark" alt="professor-madmaxxx">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=Programmer-Hacktivist&theme=onedark" alt="CyberSecurityProfessional-EthicalHacker">
 </p>
 
 <h1 align="center">Random Joke</h1>
